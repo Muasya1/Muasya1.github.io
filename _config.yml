@@ -14,28 +14,27 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Chirpy # "MUASYA1.github.io"
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: A Data Analyst and Cybersecurity incidence response officer
 
-description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: >- # A data analyst and cybersecurity incidence response officer exloring AI ,ML and security analysis
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
+# E.g. 'https://MUASYA1.github.io.io', note that it does not end with a '/'.
 url: ""
 
 github:
-  username: github_username # change to your GitHub username
+  MUASYA1.github.io: # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  MUASYA1.github.io: twitter_username # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: your_full_name
-  email: example@domain.com # change to your email address
+  email:MUASYA1.github.io@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
